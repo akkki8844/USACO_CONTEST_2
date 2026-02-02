@@ -1,3 +1,6 @@
+// Run g++ -O2 -std=gnu++17 itsmoonintime.cpp -o itsmoonintime
+// Run ./itsmoonintime to run the program 
+// After doing the above, you can put in your input and get the accurate result.
 #include <bits/stdc++.h>
 using namespace std;
 

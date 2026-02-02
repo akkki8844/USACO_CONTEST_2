@@ -1,3 +1,6 @@
+// Run g++ -O2 -std=gnu++17 moo.cpp -o moo to compile
+// Run ./moo to run the program after compilation
+// After doing the above, put in your input for the accurate output. 
 #include <bits/stdc++.h>
 using namespace std;
 
